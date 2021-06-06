@@ -110,7 +110,7 @@
 
 ## 登陆出现的问题
 
-### Backend%20is%20not%20running！
+### Backend is not running！
 
 检查网络连接，重新尝试。
 
