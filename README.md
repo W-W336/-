@@ -234,16 +234,16 @@
 基于Web的分布式编写和版本控制（WebDAV）是超文本传输协议（HTTP）的扩展，有利于用户间协同编辑和管理存储在万维网服务器文档。
 
 ### WebDAV功能的网页配置
-
+![WebDAV功能的网页配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E7%BD%91%E9%A1%B5%E9%85%8D%E7%BD%AE.png)
 
 
 ### WebDAV功能的本地配置
 
-
+![WebDAV功能的本地配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE.png)
 
 ### WebDAV账号管理
 
-
+![WebDAV账号管理]()
 
 
 ## 下载出错
