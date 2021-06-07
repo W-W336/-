@@ -19,7 +19,11 @@
 
 ## 声明：
 本文全程由[纯纯写作](https://writer.drakeet.com/)进行编辑完成.<br>
-一个令人感到安心、拥有历史记录、段间距、多重防止文章丢失功能，和许多写作辅助的编辑器。
+一个令人感到安心、拥有历史记录、段间距、多重防止文章丢失功能，和许多写作辅助的编辑器。<br>
+
+本文参考了[Ayaginu-Sue](https://github.com/Ayaginu-Sue)编写的[纯纯写作使用手册](https://github.com/Ayaginu-Sue/purewriter).<br>
+一份非常详尽以及清晰明了的用户使用手册。
+
 
 ## 目录
 
