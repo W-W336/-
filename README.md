@@ -346,11 +346,13 @@
 
 ### WebDAV 功能的网页配置
 
-![WebDAV功能的网页配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E7%BD%91%E9%A1%B5%E9%85%8D%E7%BD%AE.png)
+![WebDAV功能的网页配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E7%BD%91%E9%A1%B5%E9%85%8D%E7%BD%AE.png) <br>
+
+<div align="center"> <img loading="lazy"  src="https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E7%BD%91%E9%A1%B5%E9%85%8D%E7%BD%AE.png" width="42" height="42"> </div>
 
 ### WebDAV 功能的本地配置
 
-![WebDAV 功能的本地配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE.png)
+![WebDAV 功能的本地配置](https://github.com/W-W336/YINGHUA/blob/main/Remarks/WebDAV%E5%8A%9F%E8%83%BD%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE.png) <br>
 
 ### WebDAV 账号管理
 
