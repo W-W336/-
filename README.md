@@ -11,9 +11,9 @@
 [进阶问题](#进阶问题)、
 [充值购买](#充值购买)
 七部分，除此之外，正文之后还有[隐藏福利](#隐藏福利)。
-遇到问题请优先查询本手册，或者[Google](https://www.google.com/)，
+遇到问题请优先查询本手册，或者 [Google](https://www.google.com/)，
 在自己尝试解决问题却无法解决后，请咨询客服，描述问题请参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)，仅在此处提醒，若是本手册所包含的内容，客服有权不予回答，后续不再提示，周知。
-本手册并不完全，如果遇到好的问题，您可以提[issues](https://github.com/W-W336/YINGHUA/issues)，我们会在判断后有选择地进行修改，如果您有好的想法欢迎PR。
+本手册并不完全，如果遇到好的问题，您可以提 [issues](https://github.com/W-W336/YINGHUA/issues)，我们会在判断后有选择地进行修改，如果您有好的想法欢迎PR。
 
 在使用中，请善用网页搜索，电脑端可使用 Ctrl+F 打开网页搜索，手机端请在网页菜单中自行寻找网页搜索。
 
@@ -21,7 +21,7 @@
 本文全程由[纯纯写作](https://writer.drakeet.com/)进行编辑完成.<br>
 一个令人感到安心、拥有历史记录、段间距、多重防止文章丢失功能，和许多写作辅助的编辑器。<br>
 
-本文参考了[Ayaginu-Sue](https://github.com/Ayaginu-Sue)编写的[纯纯写作使用手册](https://github.com/Ayaginu-Sue/purewriter).<br>
+本文参考了 [Ayaginu-Sue](https://github.com/Ayaginu-Sue) 编写的[纯纯写作使用手册](https://github.com/Ayaginu-Sue/purewriter).<br>
 一份非常详尽以及清晰明了的用户使用手册。
 
 
