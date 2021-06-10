@@ -18,12 +18,13 @@
 在使用中，请善用网页搜索，电脑端可使用 Ctrl+F 打开网页搜索，手机端请在网页菜单中自行寻找网页搜索。
 
 ## 声明：
-本文全程由[纯纯写作](https://writer.drakeet.com/)进行编辑完成.<br>
+本文全程由[纯纯写作](https://writer.drakeet.com/) 进行编辑完成.<br>
 一个令人感到安心、拥有历史记录、段间距、多重防止文章丢失功能，和许多写作辅助的编辑器。<br>
 
 本文参考了 [Ayaginu-Sue](https://github.com/Ayaginu-Sue) 编写的[纯纯写作使用手册](https://github.com/Ayaginu-Sue/purewriter).<br>
-一份非常详尽以及清晰明了的用户使用手册。
+一份非常详尽以及清晰明了的用户使用手册。<br>
 
+内容按照 中文文案排版指北 进行排版，以保证内容的可读性。
 
 ## 目录
 
