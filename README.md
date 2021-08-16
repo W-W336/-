@@ -405,7 +405,7 @@
 
 ### 磁力转换
 
-https://www.qtoo;.net/tomagnet
+https://www.qtool.net/tomagnet
 
 - 使用[映画云盘](https://disk.onji.cn/)还将获得一条专属的线路
 
