@@ -466,7 +466,7 @@ https://www.qtool.net/tomagnet
 
 手机端改为电脑端（ UA 改为 PC ）点击下面操作即可
 
-![image](https://user-images.githubusercontent.com/65390244/129566602-90615d19-fb2b-4179-a99f-d86899ee37af.png)
+![image](https://github.com/W-W336/YINGHUA/blob/main/Remarks/%E8%BD%AC%E5%AD%98%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
 
 ### 取消分享
 
