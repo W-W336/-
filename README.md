@@ -24,7 +24,7 @@
 本文参考了 [Ayaginu-Sue](https://github.com/Ayaginu-Sue) 编写的 [纯纯写作使用手册](https://github.com/Ayaginu-Sue/purewriter).<br>
 一份非常详尽以及清晰明了的用户使用手册。<br>
 
-内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md) 进行排版，以保证内容的可读性。
+内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容的可读性。
 
 ## 目录
 
